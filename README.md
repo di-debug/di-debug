@@ -2,7 +2,7 @@
 
 I am a passionate Web Developer with a strong background in front-end development and specialized expertise in WordPress. I recently completed training in Full Stack JavaScript development, adding another dimension to my skill set.
 
-<!-- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+![Deepak's Stats](https://github-readme-stats.vercel.app/api?username=di-debug&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## 🚀 About Me
 
 - 🔭 I'm currently working as a webdeveloper.
@@ -11,6 +11,7 @@ I am a passionate Web Developer with a strong background in front-end developmen
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community. -->
 ## My Articles
 - [Developer console and use of it](https://deepaknandi.hashnode.dev/developer-console-and-use-of-it)
+- [Array In Javascript](https://deepaknandi.hashnode.dev/array-in-javascript)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,express,wordpress)](https://skillicons.dev)
